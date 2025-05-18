@@ -1,4 +1,4 @@
-# # scRNA-seq Analysis of GSE197177 using seurat 
+# scRNA-seq Analysis of GSE197177 using seurat 
 **Author:** Vassanth Mathan  
 **Date:** April 2025  
 
